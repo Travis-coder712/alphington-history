@@ -104,8 +104,14 @@ const SECTIONS = [
       <p style="font-size:0.8rem;color:var(--text-faint);margin-top:6px;">The plateau after 1933 reflects the paper mill's large industrial footprint; population is now climbing again as YarraBend fills in.</p>
     </div>
 
+    <div class="card">
+      <h3>A parish of its own — St Jude&rsquo;s, 1914</h3>
+      <p>By the eve of the First World War the village had grown enough to warrant its own Anglican parish. The foundation stone of <strong>St Jude&rsquo;s Church, Alphington</strong> was laid in October 1913 by J.&nbsp;S.&nbsp;Adams&nbsp;JP, and the completed church — seating about 180 and costing around <strong>£1,500</strong> — was dedicated on <strong>28 March 1914</strong> by the Bishop of Bendigo, Dr Langley, with <strong>Rev. Hamilton Haslam</strong> installed as the new parish&rsquo;s first vicar. <span class="tag sourced">documented (primary source)</span></p>
+      <p style="font-size:0.8rem;color:var(--text-faint);">A small but telling marker of a market-garden village maturing into a settled suburb — found in the digitised press during this project.</p>
+    </div>
+
     <ul class="source-list">
-      <li>Sources: <a href="https://www.victorianplaces.com.au/alphington" target="_blank" rel="noopener">Victorian Places — Alphington</a>; <a href="https://en.wikipedia.org/wiki/Alphington,_Victoria" target="_blank" rel="noopener">Wikipedia — Alphington, Victoria</a>; <a href="https://en.wikipedia.org/wiki/Alphington_railway_station" target="_blank" rel="noopener">Wikipedia — Alphington railway station</a>; <a href="https://heritage.darebinlibraries.vic.gov.au/article/16" target="_blank" rel="noopener">Darebin Heritage — Alphington</a>.</li>
+      <li>Sources: <a href="https://www.victorianplaces.com.au/alphington" target="_blank" rel="noopener">Victorian Places — Alphington</a>; <a href="https://en.wikipedia.org/wiki/Alphington,_Victoria" target="_blank" rel="noopener">Wikipedia — Alphington, Victoria</a>; <a href="https://en.wikipedia.org/wiki/Alphington_railway_station" target="_blank" rel="noopener">Wikipedia — Alphington railway station</a>; <a href="https://heritage.darebinlibraries.vic.gov.au/article/16" target="_blank" rel="noopener">Darebin Heritage — Alphington</a>. St Jude&rsquo;s: <a href="https://trove.nla.gov.au/newspaper/article/89083410" target="_blank" rel="noopener">Heidelberg News, 28 March 1914, p.3 (Trove)</a>.</li>
     </ul>
   `,
 },
@@ -562,6 +568,7 @@ const SECTIONS = [
           ['1880s', 'Land boom: Fulham Grange, St James Park and Lucerne estates subdivided.'],
           ['1888', 'Alphington railway station opens (8 May). Grandview Hotel built.'],
           ['1908', 'Alphington State School No. 3599 opens (21 August).'],
+          ['1913–14', 'St Jude&rsquo;s Church dedicated (28 March 1914) — Alphington gains its own Anglican parish.'],
           ['1911', 'MMBW Detail Plan 1319 shows Roemer Crescent laid out but nearly unbuilt.'],
           ['1912', 'Alphington Park begins to be developed.'],
           ['1915–25', 'Main building era on Roemer Crescent and across South Alphington.'],
