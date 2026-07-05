@@ -178,6 +178,17 @@ const SECTIONS = [
     </div>
 
     <div class="card">
+      <h3>From the newspapers: cutting the road &amp; its first families</h3>
+      <p>Digitised newspapers (Trove), searched during this project, put hard dates and real faces to the crescent:</p>
+      <ul>
+        <li><strong>The road was formed in 1893.</strong> Although the lots dated from Manning's 1850s plan, the Shire of Heidelberg only cut the road itself four decades later — calling tenders for &ldquo;<em>Forming Roemer Crescent, Alphington</em>&rdquo; in September 1893 and reporting it &ldquo;completed&rdquo; that November; water mains and tar-paving followed in 1901. This helps explain why the 1850s lots stood almost empty until the 1910s. <span class="tag sourced">documented (primary source)</span></li>
+        <li><strong>John Enticott</strong> — the citation's &ldquo;ironmonger&rdquo; — died at his Roemer Crescent home (&ldquo;Rosemount&rdquo;, No. 3) on <strong>26 September 1913, aged 80</strong>, &ldquo;a colonist of 61 years&rdquo; (in the colony from about 1852); he was buried at Heidelberg Cemetery. <span class="tag sourced">documented</span></li>
+        <li><strong>The Delbridge family</strong> threw open their Roemer Crescent grounds for a <strong>Red Cross garden fête in November 1918</strong> — opened by the shire president, with the Heidelberg District Brass Band, raising £35/10/-. A substantial garden property, foreshadowing the Renns' celebrated garden nearby.</li>
+        <li>Other early households named in the press: the <strong>Ward</strong> family (1892) and, by the 1940s, the <strong>F. S. Young</strong> family, who by then occupied &ldquo;Rosemount&rdquo; at No. 3. <span class="tag sourced">documented</span></li>
+      </ul>
+    </div>
+
+    <div class="card">
       <h3>The 1911 map — laid out, but nearly empty</h3>
       <p>The key early document is the <strong>Melbourne &amp; Metropolitan Board of Works (MMBW) Detail Plan No. 1319, Shire of Heidelberg, 1911</strong>, drawn at 40 feet to the inch and held by the State Library of Victoria. It shows the crescent's allotments <strong>fully laid out but almost unbuilt</strong> — just a cluster of early houses on the south side and one at the end of View Street. The suburb's real building boom was still a decade off. <span class="tag sourced">documented</span></p>
       <p>The map behind this street is one you can go and see: the MMBW plan (State Library of Victoria) and, further back, the <strong>Parish of Jika Jika</strong> parish plan showing Portion 120 itself (Public Record Office Victoria). Links are in the sources below.</p>
@@ -213,12 +224,13 @@ const SECTIONS = [
     </div>
 
     <div class="callout">
-      <strong>Gap worth closing.</strong> No digitised Trove newspaper article naming "Roemer Crescent" in the 1880s&ndash;1920s could be found via automated search. A direct search on <a href="https://trove.nla.gov.au/newspaper" target="_blank" rel="noopener">Trove</a> (which needs a real browser) for "Roemer Crescent", "Alphington" and "Manning's Estate" would likely surface original subdivision and sale notices.
+      <strong>Still open.</strong> A browser-driven Trove search (done for this project) turned up 111 mentions of "Roemer Crescent" — the road's 1893 construction, the Enticott and Delbridge families, and later residents (all folded in above). What it did <em>not</em> surface was the original <strong>subdivision auction advertisement</strong> naming the crescent — those 1850s&ndash;1880s land sales were likely marketed under estate names ("Manning's Estate", the Alphington village) rather than the street name, and remain a target for a deeper Trove and PROV (Landata) search.
     </div>
 
     <ul class="source-list">
       <li>Sources: <a href="https://vhd.heritagecouncil.vic.gov.au/places/177236" target="_blank" rel="noopener">VHD — Alphington East Precinct (place 177236)</a>; <a href="https://planning-schemes.app.planning.vic.gov.au/Yarra" target="_blank" rel="noopener">City of Yarra Planning Scheme — HO362</a>; <a href="https://adb.anu.edu.au/biography/roemer-charles-william-2601" target="_blank" rel="noopener">Australian Dictionary of Biography — Charles William Roemer</a>; City of Yarra Heritage Gap Study Stage 2 (Butler, 2009).</li>
       <li>Maps: <a href="https://www.slv.vic.gov.au/search-discover/explore-collections-format/maps/maps-melbourne-city-suburbs/mmbw-plans" target="_blank" rel="noopener">MMBW Detail Plan No. 1319 (1911) — State Library Victoria</a>; <a href="https://prov.vic.gov.au/explore-collection/explore-topic/researching-land-and-property/parish-and-township-plans" target="_blank" rel="noopener">Parish of Jika Jika plan — Public Record Office Victoria</a>.</li>
+      <li>Primary press (Trove): <a href="https://trove.nla.gov.au/newspaper/article/59756238" target="_blank" rel="noopener">Heidelbergshire Council — "Forming Roemer Crescent", Mercury &amp; Weekly Courier, 14 Sep 1893</a>; <a href="https://trove.nla.gov.au/newspaper/article/7228304" target="_blank" rel="noopener">John Enticott death notice, The Argus, 29 Sep 1913, p.1</a>; <a href="https://trove.nla.gov.au/newspaper/article/89079224" target="_blank" rel="noopener">Delbridge Red Cross garden fête, Heidelberg News, 23 Nov 1918</a>.</li>
     </ul>
   `,
 },
@@ -578,6 +590,7 @@ const SECTIONS = [
           ['1888', 'Alphington railway station opens (8 May). Grandview Hotel built.'],
           ['1908', 'Alphington State School No. 3599 opens (21 August).'],
           ['1913–14', 'St Jude&rsquo;s Church dedicated (28 March 1914) — Alphington gains its own Anglican parish.'],
+          ['1893', 'The Shire of Heidelberg forms (constructs) Roemer Crescent — 40 years after Manning laid out its lots.'],
           ['1911', 'MMBW Detail Plan 1319 shows Roemer Crescent laid out but nearly unbuilt.'],
           ['1912', 'Alphington Park begins to be developed.'],
           ['1915–25', 'Main building era on Roemer Crescent and across South Alphington.'],
@@ -638,7 +651,7 @@ const SECTIONS = [
       <ul>
         <li><strong>The Renn family &amp; Runnymeade</strong> — <em>partly resolved via Trove:</em> Mr P. Renn was a printer; Mrs P. S. Renn won first prize in <em>The Herald</em>&rsquo;s 1940 garden competition. Still open: their full given names and the house&rsquo;s build/demolition dates — try PROV rate books, Sands &amp; McDougall directories, BDM Victoria, Heidelberg Historical Society.</li>
         <li><strong>The Grandview "coaching stage" story</strong> — needs a Trove newspaper find or the full VHD statement to confirm or lay to rest.</li>
-        <li><strong>Roemer Crescent subdivision notices</strong> — a browser-based Trove search should surface 1880s–1920s land-sale ads.</li>
+        <li><strong>Roemer Crescent&rsquo;s original subdivision advert</strong> — Trove now gives the 1893 road-forming and early families, but the 1850s&ndash;1880s auction ad (likely under "Manning&rsquo;s Estate") is still to be found; try Landata (PROV) for the lodged plan.</li>
         <li><strong>Alphington Primary's early history</strong> — principals, enrolments, the 1885/1908/1924 puzzle: the Darebin Heritage article and PROV school files (VPRS, No. 3599).</li>
         <li><strong>North Alphington Cricket &amp; Netball clubs</strong> — exact founding years.</li>
       </ul>
