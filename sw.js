@@ -1,5 +1,5 @@
 /* Alphington History service worker — cache-first offline support */
-const CACHE = 'alphington-history-v2';
+const CACHE = 'alphington-history-v3';
 const ASSETS = [
   './',
   './index.html',

@@ -234,7 +234,8 @@ const SECTIONS = [
     <div class="card">
       <h3>A glorious home and its garden</h3>
       <p>On <strong>Elmo Avenue</strong>, on the rise above the Yarra beside what is now Alphington Park, stood <strong>"Runnymeade"</strong> — the home of the <strong>Renn family</strong>. From the <strong>1920s to the early 1960s</strong> the riverbank below it formed part of their "beautifully landscaped gardens," and their "glorious home" stood on the adjacent site. <span class="tag sourced">documented (heritage signage)</span></p>
-      <p>The gardens were no ordinary suburban plot: they <strong>won the 1940 Herald Sun and Weekly Times Garden Competition</strong> — a state-wide honour. This is the origin of the Yarra Trail heritage sign now on the riverbank, which records the estate and its award. <span class="tag uncertain">1940 win repeated in heritage sources; original press citation not yet located</span></p>
+      <p>The gardens were no ordinary suburban plot. <strong>Mrs P. S. Renn&rsquo;s garden won first prize in <em>The Herald</em>&rsquo;s 1940 garden competition</strong> — now confirmed from the original press. She kept placing in later years (3rd in Section 1 in 1941; runner-up in Section 1, 75 points, in 1947), making Runnymeade one of Melbourne&rsquo;s celebrated private gardens of the era. <span class="tag sourced">documented (primary source)</span></p>
+      <p style="font-size:0.82rem;color:var(--text-faint);">The Yarra Trail sign records this as the &ldquo;1940 Herald Sun and Weekly Times Garden Competition.&rdquo; The contemporary 1940 report calls it <em>The Herald</em>&rsquo;s competition — the &ldquo;Herald Sun&rdquo; masthead only dates from 1990, so the original honour was <em>The Herald</em>&rsquo;s.</p>
     </div>
 
     <div class="card">
@@ -247,12 +248,19 @@ const SECTIONS = [
     </div>
 
     <div class="card">
+      <h3>The Renns, out of the newspapers</h3>
+      <p>Digitised newspapers put flesh on the family. <strong>Mr P. Renn was a printer</strong> — reported in 1914 when his Alphington home was burgled — and by the 1930s the Renns were at <strong>Runnymeade, St Elmo Road (later Elmo Avenue), Alphington</strong>, a socially prominent household. <span class="tag sourced">documented (primary source)</span></p>
+      <p>After her 1940 first prize, <strong>Mrs P. S. Renn opened the garden again and again for charity</strong>. One afternoon in May 1940 the Ivanhoe League of Mission Helpers ran a bridge party there for about 80 guests, the reception rooms &ldquo;beautifully decorated with pink zinnias and green hydrangeas, marigolds and dahlias&rdquo;; across such events she helped raise more than £80 for the Blind Auxiliary, the Austin Hospital Auxiliary and the Australian Comforts Fund.</p>
+      <p>The next generation of Renns turn up in the suburb&rsquo;s sport through the 1920s–30s — playing cricket for Alphington and football for the Alphington club, with one young Renn reported in 1934 as &ldquo;training with Collingwood.&rdquo; A printing family, deep in the life of the place. <span class="tag sourced">documented</span></p>
+    </div>
+
+    <div class="card">
       <h3>What we still don't know</h3>
       <p>A photograph captioned <strong>"Runnymeade House, Elmo Ave, Alphington, 1937"</strong> survives in the John Young Collection, reproduced in the booklet <em>Heidelberg, 1937</em> — proof the house stood by then. <span class="tag sourced">documented</span> But much remains undocumented:</p>
       <ul>
-        <li><strong>Who the Renns were</strong> — given names, occupation, exact years of residence: not yet found in any reachable source.</li>
-        <li><strong>When Runnymeade was built, and by whom</strong>: undocumented. The "1920s" garden bracket suggests the house and its landscaping were established by then.</li>
-        <li><strong>When it was demolished</strong>: no record found; the past-tense heritage wording and the "early 1960s" end-date imply the house was gone by the 1960s, its land absorbed into the park and Elmo Avenue housing. <span class="tag uncertain">demolition inferred, not documented</span></li>
+        <li><strong>The Renns&rsquo; full given names</strong> — the press gives only initials (Mr P. Renn, printer; Mrs P. S. Renn, the gardener). A BDM or electoral-roll search would supply the rest.</li>
+        <li><strong>When Runnymeade was built, and by whom</strong>: still undocumented. The house stood by 1937 (the photograph) and the family were there into at least the late 1940s.</li>
+        <li><strong>When it was demolished</strong>: no record found; the past-tense heritage wording and the "early 1960s" end-date imply the house was gone by the 1960s, its land absorbed into the park and Elmo Avenue housing. Rate books would pin the year. <span class="tag uncertain">demolition inferred, not documented</span></li>
       </ul>
       <p style="font-size:0.8rem;color:var(--text-faint);">Note: Elmo Avenue appears to take its name from a separate "St Elmo" house near Lucerne Crescent — not to be confused with Runnymeade.</p>
     </div>
@@ -263,6 +271,7 @@ const SECTIONS = [
 
     <ul class="source-list">
       <li>Sources: Yarra Trail interpretive signage, "Alphington riverside landscapes" (Parks Victoria / City of Yarra); <a href="https://www.victorianplaces.com.au/node/64577" target="_blank" rel="noopener">Victorian Places — "Runnymeade House, Elmo Ave, Alphington, 1937" (John Young Collection)</a>; Alphington Park Heritage Assessment 2007; <a href="https://afcivic.org/a-rich-history/" target="_blank" rel="noopener">Alphington Fairfield Civic Association — "A rich history"</a>.</li>
+      <li>Primary press (Trove): <a href="https://trove.nla.gov.au/newspaper/article/244130313" target="_blank" rel="noopener">"Prize Garden Opened For Charity", The Herald, 1 May 1940, p.16</a>; <a href="https://trove.nla.gov.au/newspaper/article/11029781" target="_blank" rel="noopener">"Bridge Parties", The Argus, 24 Apr 1936, p.4</a>; <a href="https://trove.nla.gov.au/newspaper/article/245578592" target="_blank" rel="noopener">"Herald First-Prize Gardens", The Herald, 22 Mar 1947, p.5</a>; robbery reports naming "Mr P. Renn, printer" (The Age &amp; The Herald, 2–3 Apr 1914).</li>
     </ul>
   `,
 },
@@ -578,7 +587,7 @@ const SECTIONS = [
           ['1924', 'Present Alphington schoolhouse built on Yarralea Street.'],
           ['1934', 'Parkside Football Club founded at the Alphington Hotel (19 January).'],
           ['1937', '"Runnymeade House, Elmo Ave" photographed.'],
-          ['1940', 'The Renns&rsquo; Runnymeade gardens win the Herald Sun / Weekly Times Garden Competition.'],
+          ['1940', 'Mrs P. S. Renn&rsquo;s Runnymeade garden wins first prize in <em>The Herald</em>&rsquo;s garden competition; opened for charity.'],
           ['early 1960s', 'The Renn garden era ends; Runnymeade is gone.'],
           ['1962', 'Alphington &amp; Fairfield move from the City of Heidelberg to Northcote.'],
           ['1986', 'The paper mill becomes part of Amcor.'],
@@ -627,7 +636,7 @@ const SECTIONS = [
       <h3>Open questions — where the record runs out</h3>
       <p>Honest gaps, and the best places to close them (most need a real browser or a library visit):</p>
       <ul>
-        <li><strong>The Renn family &amp; Runnymeade</strong> — their names, occupation, and the house's build/demolition dates. Try Trove, PROV rate books, Sands &amp; McDougall directories, Heidelberg Historical Society.</li>
+        <li><strong>The Renn family &amp; Runnymeade</strong> — <em>partly resolved via Trove:</em> Mr P. Renn was a printer; Mrs P. S. Renn won first prize in <em>The Herald</em>&rsquo;s 1940 garden competition. Still open: their full given names and the house&rsquo;s build/demolition dates — try PROV rate books, Sands &amp; McDougall directories, BDM Victoria, Heidelberg Historical Society.</li>
         <li><strong>The Grandview "coaching stage" story</strong> — needs a Trove newspaper find or the full VHD statement to confirm or lay to rest.</li>
         <li><strong>Roemer Crescent subdivision notices</strong> — a browser-based Trove search should surface 1880s–1920s land-sale ads.</li>
         <li><strong>Alphington Primary's early history</strong> — principals, enrolments, the 1885/1908/1924 puzzle: the Darebin Heritage article and PROV school files (VPRS, No. 3599).</li>
